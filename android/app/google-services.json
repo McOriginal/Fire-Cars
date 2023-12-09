@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "358710272872",
+    "project_id": "firecarse",
+    "storage_bucket": "firecarse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358710272872:android:cd1d190335a59a46eaacdd",
+        "android_client_info": {
+          "package_name": "com.example.fire_carse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358710272872-snd89tmcjd65v66a6isbs4ppsqr5l7nj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fire_carse",
+            "certificate_hash": "684d0cbf5d656fadd2ea1cc9234f7442667527d2"
+          }
+        },
+        {
+          "client_id": "358710272872-vfku4q2mbnv9ku7ii8sn9ostv18d60b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDStIwvF4q2bKMvkDCNruKfhsBWgaJG_LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358710272872-vfku4q2mbnv9ku7ii8sn9ostv18d60b0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "358710272872-ste673tjo6cgtm6sn6kr8r0scdp52j51.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireCarse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
